@@ -1,6 +1,6 @@
 ----------------------------------------------------------------
-2021-07-21 01:36:00.270 GMT:
- Booting Derby version The Apache Software Foundation - Apache Derby - 10.1.1.0 - (208786): instance c013800d-017a-c6b4-8fc2-00000f9829d0
-on database directory /Users/rhianresnick/NetBeansProjects/SimpleJdbcDemo/codejava/webdb 
+2021-07-23 00:45:10.336 GMT:
+ Booting Derby version The Apache Software Foundation - Apache Derby - 10.1.1.0 - (208786): instance c013800d-017a-d0d2-bdcd-00000f97cef0
+on database directory /Users/rhianresnick/db_demo 
 
 Database Class Loader started - derby.database.classpath=''
